@@ -164,6 +164,8 @@ class hideout:
 # I'd like to aviod loading EVERY. SINGLE. ITEM. into memory
 
 """
+todo reminders
+
 commands:
 add [rubles,euro,dollars] <amount>
 get loadout (get info, top down view of currently equipped loadout)
